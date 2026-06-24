@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2189c6de6ab1a8841a466c56b0bf3aab, type: 3}
+  m_Name: Bell
+  m_EditorClassIdentifier: Assembly-CSharp::SymbolData
+  symbolName: BELL
+  sprite: {fileID: 21300000, guid: e86d312f4d754f742975a056db52485a, type: 3}
+  color: {r: 1, g: 0.64705884, b: 0, a: 1}
+  payoutValue: 50
